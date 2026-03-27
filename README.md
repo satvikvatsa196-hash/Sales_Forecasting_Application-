@@ -127,4 +127,4 @@ we can extend this project with:
 
 ---
 
-*Built with using Python, Streamlit, Plotly, Statsmodels, XGBoost & Prophet*
+*Built using Python, Streamlit, Plotly, Statsmodels, XGBoost & Prophet*
