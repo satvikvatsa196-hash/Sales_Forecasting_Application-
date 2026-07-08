@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Streamlit / local app artifacts
+.streamlit/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter / editor artifacts
+.ipynb_checkpoints/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
